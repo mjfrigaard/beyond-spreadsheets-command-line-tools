@@ -3,6 +3,8 @@ Beyond Spreadsheets
 
 This is a repository for some basic command line skills for processing and managing data. 
 
+The tutorial is [here](docs/bu-beyond-spreadsheets.md) or you can follow the links to the slides below.
+
 ## Topics covered
 
 `echo` - outputs text as arguments, prints to Terminal screen, file, or in a pipeline
@@ -35,6 +37,10 @@ This is a repository for some basic command line skills for processing and manag
 The slide deck for this presentation is here: http://bit.ly/33DuKMt
 
 Comment on the slides here: http://bit.ly/bu-beyond-spreadsheets
+
+## RStudio.Cloud project 
+
+There is an RStudio cloud project with the `docs/bu-beyond-spreadsheets.md` file here: https://rstudio.cloud/project/618815
 
 ## Set up 
 
