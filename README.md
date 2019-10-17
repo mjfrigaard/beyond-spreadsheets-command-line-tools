@@ -13,18 +13,18 @@ The tutorial is [here](docs/bu-beyond-spreadsheets.md) or you can follow the lin
 `cd` - change directories    
 `whoami` - user/login info   
 `ls` - list all files  
-`head` - print top of file 
+`head` - print top of file   
 `tail` - print bottom of file
 
 `mkdir` - create directory  
 `touch` - create a few files  
 
 
-`ls -la` - list all files, including hidden ones  
-`rmdir` - remove a directory  (*EXTRA*)
-`cat` - display a text file in Terminal screen  (*EXTRA*)
+`ls -la` - list all files, including hidden ones   
+`rmdir` - remove a directory  (*EXTRA*)   
+`cat` - display a text file in Terminal screen  (*EXTRA*)   
 
-`grep` - globally search a regular expression and print  
+`grep` - globally search a regular expression and print   
 
 `>> and > `- redirect output of program to a file (don’t display on Terminal screen)
 
