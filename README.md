@@ -1,5 +1,7 @@
-Beyond Spreadsheets
+Beyond Spreadsheets : command line tools for managing data
 =================
+
+![](images/01-cli.png)
 
 This is a repository for some basic command line skills for processing and managing data. 
 
