@@ -5,7 +5,7 @@ Beyond Spreadsheets : command line tools for managing data
 
 This is a repository for some basic command line skills for processing and managing data. 
 
-The tutorial is [here](docs/bu-beyond-spreadsheets.md) or you can follow the links to the slides below.
+The tutorial is [here](https://github.com/mjfrigaard/bu-beyond-spreadsheets/blob/master/doc/bu-beyond-spreadsheets.md) or you can follow the links to the slides below.
 
 ## Topics covered
 
